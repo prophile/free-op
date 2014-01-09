@@ -12,5 +12,5 @@ build-type:          Simple
 cabal-version:       >=1.8
 
 library
-  --exposed-modules:
+  exposed-modules:     Control.Monad.Op
   build-depends:       base ==4.5.*, free >= 4.2
