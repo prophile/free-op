@@ -1,0 +1,16 @@
+name:                free-op
+version:             0.1.0.0
+synopsis:            Free monads for operations.
+description:         Free monads generated from GADTs.
+homepage:            http://github.com/prophile/free-op/
+license:             MIT
+license-file:        LICENSE
+author:              Alistair Lynn
+maintainer:          a.lynn@ecs.soton.ac.uk
+category:            Control
+build-type:          Simple
+cabal-version:       >=1.8
+
+library
+  --exposed-modules:
+  build-depends:       base ==4.5.*
